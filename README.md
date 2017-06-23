@@ -47,6 +47,12 @@ npm install -g git-standup
 
 ```
 
+TodoList
+```
+brew install todolist
+```
+
+
 ## My two cents
 
 I created a file `.dashboard.sh` that fires all this up in my home folder and added a bunch of aliases in my ~/.zshrc file (I use oh-my-zsh)
