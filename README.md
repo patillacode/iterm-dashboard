@@ -14,7 +14,7 @@ So I added a few things to automate that process.
 
 ## Tools I want in my dashboard
 
-* [Gif in terminal]((https://github.com/JoshCheek/animated-gif-in-the-terminal)): Stole and adapted the idea from [JoshCheek](https://github.com/JoshCheek/)
+* [Gif in terminal](https://github.com/JoshCheek/animated-gif-in-the-terminal): Stole and adapted the idea from [JoshCheek](https://github.com/JoshCheek/)
 * [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal), from [LazoCoder](https://github.com/LazoCoder/)
 * [Tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal), from [notwaldorf](https://github.com/notwaldorf/)
 * [TodoList](https://github.com/gammons/todolist): from [gammons](https://github.com/gammons/todolist)
