@@ -14,10 +14,10 @@ So I added a few things to automate that process.
 
 ## Tools I want in my dashboard
 
-* Gif in terminal: Stole and adapted the idea from (JoshCheek)[https://github.com/JoshCheek/animated-gif-in-the-terminal]
-* Pokemon-Terminal: See (here)[https://github.com/LazoCoder/Pokemon-Terminal] from (LazoCoder)[https://github.com/LazoCoder/]
-* Tiny-care-terminal: See (here)[https://github.com/notwaldorf/tiny-care-terminal] from (notwaldorf)[https://github.com/notwaldorf/]
-* TodoList: See (here)[https://github.com/gammons/todolist] from (gammons)[https://github.com/gammons/todolist]
+* Gif in terminal: Stole and adapted the idea from [JoshCheek](https://github.com/JoshCheek/animated-gif-in-the-terminal)
+* Pokemon-Terminal: See [here](https://github.com/LazoCoder/Pokemon-Terminal) from [LazoCoder](https://github.com/LazoCoder/)
+* Tiny-care-terminal: See [here](https://github.com/notwaldorf/tiny-care-terminal) from [notwaldorf](https://github.com/notwaldorf/)
+* TodoList: See [here](https://github.com/gammons/todolist) from [gammons](https://github.com/gammons/todolist)
 
 
 ## Installing each tool
